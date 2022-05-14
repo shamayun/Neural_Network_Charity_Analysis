@@ -30,3 +30,4 @@ I didn’t reach the goal of 75% accuracy for the model.
 **Recommendation:**
 As potential improvements I would try to remove such columns as application type and classification. They may occur to be noisy feature. The increase of quantity of neurons seems to be insufficient. The changes should be done in preprocessing dataset.
 
+
